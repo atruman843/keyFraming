@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../KeyFraming"
+      name = "KeyFraming">
+      <FileRef
+         location = "group:Event.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:Event.hpp">
+      </FileRef>
+      <FileRef
+         location = "group:glut_practice.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:glut_practice.hpp">
+      </FileRef>
+      <FileRef
+         location = "group:interpolate.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:interpolate.hpp">
+      </FileRef>
+      <FileRef
+         location = "group:main.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:MatrixCalc.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:MatrixMath.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:MatrixMath.hpp">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "container:">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>378109A3-D5DA-4C36-8D95-427DD06C1FA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>378109A3-D5DA-4C36-8D95-427DD06C1FA8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SimpleGlut project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SimpleGlut</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SimpleGlut</string>
+			<key>timeStartedRecording</key>
+			<real>588805865.628371</real>
+			<key>timeStoppedRecording</key>
+			<real>588805865.71168399</real>
+			<key>title</key>
+			<string>Build SimpleGlut</string>
+			<key>uniqueIdentifier</key>
+			<string>378109A3-D5DA-4C36-8D95-427DD06C1FA8</string>
+		</dict>
+		<key>61770DF7-B34F-490C-A9E9-5C244BBF9BE2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61770DF7-B34F-490C-A9E9-5C244BBF9BE2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SimpleGlut project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SimpleGlut</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SimpleGlut</string>
+			<key>timeStartedRecording</key>
+			<real>588806109.63030696</real>
+			<key>timeStoppedRecording</key>
+			<real>588806109.79584503</real>
+			<key>title</key>
+			<string>Build SimpleGlut</string>
+			<key>uniqueIdentifier</key>
+			<string>61770DF7-B34F-490C-A9E9-5C244BBF9BE2</string>
+		</dict>
+		<key>820B300F-9422-4F3C-B42D-B741AABC7BFE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>820B300F-9422-4F3C-B42D-B741AABC7BFE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SimpleGlut project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SimpleGlut</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SimpleGlut</string>
+			<key>timeStartedRecording</key>
+			<real>588806103.94186199</real>
+			<key>timeStoppedRecording</key>
+			<real>588806104.32660401</real>
+			<key>title</key>
+			<string>Build SimpleGlut</string>
+			<key>uniqueIdentifier</key>
+			<string>820B300F-9422-4F3C-B42D-B741AABC7BFE</string>
+		</dict>
+		<key>85F8A06F-D9CD-4F56-A1A8-1526FA1C5231</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>85F8A06F-D9CD-4F56-A1A8-1526FA1C5231.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SimpleGlut project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SimpleGlut</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SimpleGlut</string>
+			<key>timeStartedRecording</key>
+			<real>588805958.05773199</real>
+			<key>timeStoppedRecording</key>
+			<real>588805958.20935297</real>
+			<key>title</key>
+			<string>Build SimpleGlut</string>
+			<key>uniqueIdentifier</key>
+			<string>85F8A06F-D9CD-4F56-A1A8-1526FA1C5231</string>
+		</dict>
+		<key>D1E04553-FD16-4C3C-A471-9A0EE8317B22</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1E04553-FD16-4C3C-A471-9A0EE8317B22.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SimpleGlut project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SimpleGlut</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SimpleGlut</string>
+			<key>timeStartedRecording</key>
+			<real>588805862.81892097</real>
+			<key>timeStoppedRecording</key>
+			<real>588805863.41669095</real>
+			<key>title</key>
+			<string>Build SimpleGlut</string>
+			<key>uniqueIdentifier</key>
+			<string>D1E04553-FD16-4C3C-A471-9A0EE8317B22</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

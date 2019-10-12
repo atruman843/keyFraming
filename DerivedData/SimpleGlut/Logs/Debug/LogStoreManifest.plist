@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>526345D0-2E63-4D6B-A746-184813FC4E13</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>526345D0-2E63-4D6B-A746-184813FC4E13.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SimpleGlut project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SimpleGlut</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SimpleGlut</string>
+			<key>timeStartedRecording</key>
+			<real>588805865.69113302</real>
+			<key>timeStoppedRecording</key>
+			<real>588805883.18394101</real>
+			<key>title</key>
+			<string>Debug SimpleGlut</string>
+			<key>uniqueIdentifier</key>
+			<string>526345D0-2E63-4D6B-A746-184813FC4E13</string>
+		</dict>
+		<key>68ABF43C-1674-4A30-A5E3-65523089144E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>68ABF43C-1674-4A30-A5E3-65523089144E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SimpleGlut project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SimpleGlut</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug SimpleGlut</string>
+			<key>timeStartedRecording</key>
+			<real>588806109.65966797</real>
+			<key>timeStoppedRecording</key>
+			<real>588806113.94099903</real>
+			<key>title</key>
+			<string>Debug SimpleGlut</string>
+			<key>uniqueIdentifier</key>
+			<string>68ABF43C-1674-4A30-A5E3-65523089144E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
